@@ -8,7 +8,6 @@ Script alternatif untuk mengganti id akun yang sudah terkena limit ganti id 1x
 ```bash
 pkg install python -y
 pkg install git -y
-pkg install nano -y
 git clone https://github.com/diverglovsky/gantiid.git
 ```
 
